@@ -1,3 +1,4 @@
+<p><img src="https://github.com/Klad0000/Klad0000/blob/main/maxresdefault.jpg" alt="suimage"></p>
 <h2>Hi! Welcome to my Profile page👾 I'm Kenneth M. Ladines, nice to meet you! I am an introverted guy who loves to learn things and my hobbies are watching anime. I love cats and I like to read.</h2>
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3><hr>
 <p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
@@ -6,7 +7,8 @@
 ✍️ &nbsp;In my free time, I draw things and watch anime as hobbiess.<br>
 💬 &nbsp;Feel free to reach out to me for chatting and feel free to ask me questions about the lessons or just for some interesting discussion.<br>
 ✉️ &nbsp;You can email me at <a href="mailto:kenneth.ladines@cvsu.edu.ph">kenneth.ladines@cvsu.edu.ph</a>! I’ll try to respond as soon as I can.<br>
-<img alt="Night Coding" src="https://tenor.com/eYBfwjjRlxO.gif" align="right">
+  
+<img alt="Bachikon" src="https://github.com/Klad0000/Klad0000/blob/main/suibachikon.gif" align="right">
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3><hr>
 <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
