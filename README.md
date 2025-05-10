@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi welcome to my profilepage👾 I'm Kenneth M. Ladines, nice to meet you! I am an introverted guy who loves to learn things and my hobbies are fixing things and I love cats😺
 <!--
 **Klad0000/Klad0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
