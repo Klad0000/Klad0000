@@ -1,6 +1,6 @@
 <p><img src="https://github.com/Klad0000/Klad0000/blob/main/maxresdefault.jpg" alt="suimage"></p>
 <h2>Hi! Welcome to my Profile page👾 I'm Kenneth M. Ladines, nice to meet you! I am an introverted guy who loves to learn things and my hobbies are watching anime. I love cats and I like to read.</h2>
-<h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3><hr>
+<h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
 <p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
 🎓 &nbsp;I’m currently studying BSIT at the Cavite State University - Imus Campus.<br>
 🌱 &nbsp;I’m on track for learning more about Artificial Intelligence, Automation, and Database.<br>
@@ -8,8 +8,8 @@
 💬 &nbsp;Feel free to reach out to me for chatting and feel free to ask me questions about the lessons or just for some interesting discussion.<br>
 ✉️ &nbsp;You can email me at <a href="mailto:kenneth.ladines@cvsu.edu.ph">kenneth.ladines@cvsu.edu.ph</a>! I’ll try to respond as soon as I can.<br>
   
-<img alt="Bachikon" src="https://github.com/Klad0000/Klad0000/blob/main/suibachikon.gif" align="right">
-<h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3><hr>
+<img alt="Bachikon" src="https://github.com/Klad0000/Klad0000/blob/main/suibachikon.gif" align="right" height ="250px">
+<h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
 <img src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java&amp;logoColor=FFA518" alt="Java">&nbsp;
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&amp;logo=adobe-photoshop" alt="Photoshop">&nbsp;
 
 <a target="_blank" href="https://tenor.com/eYBfwjjRlxO.gif"></a>
-<h3>⚡️Where to find me</h3><hr>
+<h3>⚡️Where to find me</h3>
 <p><a target="_blank" href="https://twitter.com/https://x.com/KLADKLADKLA" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/Lalalaladines" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/lalalaladines/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
